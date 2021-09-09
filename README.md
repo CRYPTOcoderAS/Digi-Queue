@@ -21,9 +21,9 @@
   ## APP PREVIEW
 
 <p align="center">
-  <img src="./images/1.png" alt="accessibility text">
-  <img src="./images/2.png" title="hover text">
-   <img src="./images/3.png" title="hover text">
+  <img src=".\images/1.png" alt="accessibility text">
+  <img src=".\images/2.png" title="hover text">
+   <img src=".\images/3.png" title="hover text">
  
 </p>
 
